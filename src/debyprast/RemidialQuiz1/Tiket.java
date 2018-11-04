@@ -46,6 +46,6 @@ public class Tiket {
     
     
     public String getInfo(){
-        return kode+"\t| "+film+" |"+harga+"\t| ";
+        return kode+"\t| "+film+" |"+harga+"\t|  ";
     }
 }
